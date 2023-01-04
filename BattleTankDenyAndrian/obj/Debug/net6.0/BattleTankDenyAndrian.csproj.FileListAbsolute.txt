@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\bin\Debug\net6.0\BattleTankDenyAndrian.exe
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\bin\Debug\net6.0\BattleTankDenyAndrian.deps.json
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\bin\Debug\net6.0\BattleTankDenyAndrian.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\bin\Debug\net6.0\BattleTankDenyAndrian.dll
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\bin\Debug\net6.0\BattleTankDenyAndrian.pdb
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.dll
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\refint\BattleTankDenyAndrian.dll
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.pdb
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\BattleTankDenyAndrian.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Desktop\BattleTankDenyAndrian\obj\Debug\net6.0\ref\BattleTankDenyAndrian.dll

@@ -1,0 +1,15 @@
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\bin\Debug\net6.0\GameAdventureDenyAndrian.exe
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\bin\Debug\net6.0\GameAdventureDenyAndrian.deps.json
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\bin\Debug\net6.0\GameAdventureDenyAndrian.runtimeconfig.json
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\bin\Debug\net6.0\GameAdventureDenyAndrian.dll
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\bin\Debug\net6.0\GameAdventureDenyAndrian.pdb
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.csproj.AssemblyReference.cache
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.AssemblyInfoInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.AssemblyInfo.cs
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.csproj.CoreCompileInputs.cache
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.dll
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\refint\GameAdventureDenyAndrian.dll
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.pdb
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\GameAdventureDenyAndrian.genruntimeconfig.cache
+C:\Users\AGUS SYUHADA\Desktop\GameAdventureDenyAndrian\obj\Debug\net6.0\ref\GameAdventureDenyAndrian.dll

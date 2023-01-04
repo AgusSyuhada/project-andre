@@ -1,0 +1,35 @@
+:root {
+    --primary-color: white;
+    --secondary-color: black;
+}
+
+.dark-mode {
+    --primary-color: black;
+    --secondary-color: white;
+}
+
+body {
+    background-color: var(--primary-color);
+    transition: all 0.2s ease-in-out;
+}
+
+.button {
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 645px;
+    height: 30px;
+    width: 50px;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border-radius: 20px;
+    border: 1px solid var(--secondary-color);
+}
+
+h1, p {
+    color: var(--secondary-color);
+}

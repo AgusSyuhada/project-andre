@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <title>KAMU NANYEAKK</title>
+  </head>
+
+  <style>
+ 
+    button {
+        cursor: pointer;
+    }
+  </style>
+
+  <body style="text-align: center">
+    <h1>KAMU NANYEAK?</h1>
+    <img src="1kamunanya.png" width="280px" height="250px" id="img-kamunanya" />
+    <p id="clicks">Kamu telah nanyeak : 0</p>
+    <button onclick="plus()">Siapa nama bapak kau?</button>
+    <button onclick="minus()">Maap bang</button>
+    <button onclick="windah()">???</button>
+    <button class="button" id="button">
+        <i class="fas fa-moon" id="icon"></i>
+    </button>
+  </body>
+  <script>
+    function windah() {
+      const audio = new Audio(
+        "Different Heaven - Safe And Sound [NCS Release).mp3"
+      );
+      audio.play();
+      document.getElementById("img-kamunanya").src = "windah.jpg";
+      audio.addEventListener("ended", function () {
+        document.getElementById("img-kamunanya").src = "windah.jpg";
+      });
+    }
+    let clicks = 0;
+    function plus() {
+      const audio = new Audio("kamunanyasound.mp3");
+      audio.play();
+      clicks++;
+      document.getElementById("clicks").innerHTML =
+        "Kamu telah nanyeak : " + clicks;
+      document.getElementById("img-kamunanya").src = "2kamunanya.jpg";
+      audio.addEventListener("ended", function () {
+        document.getElementById("img-kamunanya").src = "1kamunanya.png";
+      });
+    }
+    function minus() {
+      const audio = new Audio("sound ente kadang kadang ente.mp3");
+      audio.play();
+      clicks--;
+      document.getElementById("clicks").innerHTML =
+        "Kamu telah nanyeak : " + clicks;
+      document.getElementById("img-kamunanya").src = "2kamunanya.jpg";
+      audio.addEventListener("ended", function () {
+        document.getElementById("img-kamunanya").src = "1kamunanya.png";
+      });
+    }
+
+    const button = document.getElementById("button");
+    const icon = document.getElementById("icon");
+
+    button.onclick = function () {
+        document.body.classList.toggle("dark-mode");
+        if (document.body.classList.contains("dark-mode")) {
+            icon.className = "fas fa-sun";
+        } else {
+            icon.className = "fas fa-moon";
+        }
+    };
+  </script>
+</html>
